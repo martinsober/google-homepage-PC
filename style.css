@@ -84,23 +84,15 @@ footer {
     border-top: solid 2px #e4e4e4;
     position: absolute;
     bottom: 0;
-    margin: 0;
     width: 100%;
-    clear: both;
-}
-
-footer ul {
-    float: none;
 }
 
 .footer-left {
-    display: block;
     float: left;
-    text-align: center;
+    padding-left: 20px;
 }
 
 .footer-right {
-    display: block;
     float: right;
-    text-align: center;
+    padding-right: 20px;
 }
